@@ -1,0 +1,21 @@
+<html>
+<head>
+    <title>This is the head of my home page 
+    </title>
+</head>
+<body>
+<h1> Welcome to my boring site </h1>
+    <p><strong> This is my first paragraph </strong></p>
+    <h2> Another type of Header that we can use </h2>
+<p><b> This paragraph is going to be bold but we could also use strong as the brackets </b></p>
+<h3>This is the heading that I got requested to do</h3>
+    <p><del> This is my second paragraph </del></p>
+<h4> H4 is going to be a bigger heading than h3, but smaller than H5 </H4>
+<p><i> This paragraph is supposed to be italicised</i></p>
+<h5> Heading h5 </h5>
+<p> This is going to be a new paragraph after heading h5 </p>
+<h6> This is the smallest heading that we could make and it is called H6 </h6>
+    
+
+</body>
+</html>
