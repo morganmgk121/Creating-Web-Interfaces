@@ -1,0 +1,14 @@
+
+h1 {
+    font-size: 45px;
+    text-align:center;
+    color: #EE5A3F;}
+body{ 
+    font-family:"Helvetica", "Arial", sans-serif;}
+  
+.big-box{
+    width: 100%;
+    background: #8FDAD6;
+    font-size: 40px;
+    text-align:center;
+    color: #31757D;}
